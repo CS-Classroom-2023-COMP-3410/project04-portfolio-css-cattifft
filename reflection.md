@@ -1,0 +1,5 @@
+For the responsive version of my portfolio, I wanted to keep the pastel colors and boxy style while making it more modern and of course responsive. I used Milligram CSS which works with a row, column system. This predesigned system worked well for almost everything, and most of my content became responsive once I wrapped it in the system. I did have to adjust some centering and spacing but it was not a difficult process. 
+
+However, not everything became responsive that easy. I had issues with pictures stretching and compressing, which had to do with improper widths being set in my custom CSS, and I had a hard time making the nav bar collapse into a vertical stack for one screen. This is what I asked ChatGPT about the most. 
+
+There is a lot in my custom css file. I deviated pretty far from the Milligram look in styling. There are also a few media queries for when the milligram.css was not working as I wanted it to. Lastly I played around with width, spacing, etc. to make things look "right" on narrow screens..
